@@ -1,8 +1,6 @@
 {
   "image": "mcr.microsoft.com/azureml/inference-base-1804:latest",
   "features": {
-    "ghcr.io/devcontainers/features/node:1": {
-        "version": "latest"
-    }
+    
 }
 }
