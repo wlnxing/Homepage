@@ -1,8 +1,9 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu18",
   "features": {
     "ghcr.io/devcontainers/features/node:1": {
         "version": "latest"
-    }
+    },
+     "ghcr.io/devcontainers/features/python:1": {}
 }
 }
